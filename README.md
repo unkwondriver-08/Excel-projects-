@@ -34,5 +34,6 @@ The dashboard allows users to analyze sales performance across multiple cities t
 ## Project Screenshot
 
 
+<img width="1656" height="697" alt="Screenshot 2026-07-05 110001" src="https://github.com/user-attachments/assets/3abb5ad0-0a76-4b81-863e-05cbcb63e5bd" />
 
 ```
