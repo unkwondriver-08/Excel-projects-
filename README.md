@@ -13,7 +13,7 @@ This repository contains my Microsoft Excel projects related to dashboard develo
 📁 Folder: Sales Dashboard
 
 ### 👥 HR Dashboard
-Coming Soon
+- Pivot Tables
 
 ### 💰 Financial Dashboard
 Coming Soon
